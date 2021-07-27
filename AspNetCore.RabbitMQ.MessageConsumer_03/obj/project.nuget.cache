@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hcmxH26yoUlju5KYIuV84cBSNuEqleULKw53gdcduT3KM5sLXy1BXdSxHM4d5wg6jKUAQp7hPP0P3OoI1UK6sQ==",
+  "success": true,
+  "projectFilePath": "E:\\朝夕教育\\架构班01期\\20200709Architect01Course051RabbitMQ03\\20200709Architect01Course051RabbitMQ03\\AspNetCore.RabbitMQ.Project\\AspNetCore.RabbitMQ.MessageConsumer_03\\AspNetCore.RabbitMQ.MessageConsumer_03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
